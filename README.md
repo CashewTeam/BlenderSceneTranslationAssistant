@@ -1,9 +1,5 @@
 # BlenderSceneTranslationAssistant
 
-Here's the translation of your Blender-related markdown content into English:
-
----
-
 A small add-on for translating collection/object/material/texture filenames in Blender project files, developed using DeepSeek R1.
 
 For node translation recommendations, please use the [Geometry Nodes Translation Add-on](https://www.bilibili.com/video/BV1An4y1979Q/) developed by [Xinyu Zhu](https://afdian.com/a/ycyxz).
